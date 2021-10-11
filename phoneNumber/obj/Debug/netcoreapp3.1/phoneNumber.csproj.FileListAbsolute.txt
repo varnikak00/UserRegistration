@@ -1,0 +1,13 @@
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.exe
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.deps.json
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.runtimeconfig.json
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.runtimeconfig.dev.json
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.dll
+D:\day19\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.pdb
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.AssemblyInfoInputs.cache
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.AssemblyInfo.cs
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.csproj.CoreCompileInputs.cache
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.dll
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.pdb
+D:\day19\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.genruntimeconfig.cache

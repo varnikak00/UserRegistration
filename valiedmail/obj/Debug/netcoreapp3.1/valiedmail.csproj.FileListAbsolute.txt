@@ -1,0 +1,13 @@
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.exe
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.deps.json
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.runtimeconfig.json
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.runtimeconfig.dev.json
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.dll
+D:\day19\valiedmail\bin\Debug\netcoreapp3.1\valiedmail.pdb
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.AssemblyInfoInputs.cache
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.AssemblyInfo.cs
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.csproj.CoreCompileInputs.cache
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.dll
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.pdb
+D:\day19\valiedmail\obj\Debug\netcoreapp3.1\valiedmail.genruntimeconfig.cache
